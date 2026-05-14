@@ -4,7 +4,7 @@ Make recipe page for HTML practice for TOP
 Goal is to set up a recipe website with working links.
 -Create the HTML boiler plate.
 -Set up links to other websites using both /absolute/ and /relative/ links.
--Include headers, make use of <strong> or <em> elements.
+-Include headers, make use of 'strong' or 'em' elements.
 -Set up images for the website.
 -For each page created, add a link back to the index page for easy navigation.
 
