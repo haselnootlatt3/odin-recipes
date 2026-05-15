@@ -26,16 +26,14 @@ Eggplant Parmesan recipe (written by: J. Kenji Lopez-Alt)
 
 # Image Credits
 ignus-meme
-    origin: CleverBunnyCompany (reddit)
-    <a href="https://www.reddit.com/r/FinalFantasy/comments/tjdlev/wanted_to_share_my_latest_ignis_art_thought_it/" target="_blank" rel="nonreferer"></a>
+    origin: <a href="https://www.reddit.com/r/FinalFantasy/comments/tjdlev/wanted_to_share_my_latest_ignis_art_thought_it/" target="_blank" rel="nonreferer">CleverBunnyCompany (reddit)</a>
 
 nikujaga.jpg
-    origin: Koji Horaguchi  (flickr.com)
-    <a href="https://www.flickr.com/photos/horaguchi/5501985108" target="_blank" rel="nonreferer"></a>
+    origin:<a href="https://www.flickr.com/photos/horaguchi/5501985108" target="_blank" rel="nonreferer"> Koji Horaguchi  (flickr.com)</a>
 
 egg-parm.jpeg
-    origin: Melanie Dompierre (pexels.com)
-    <a href="https://images.pexels.com/photos/1707917/pexels-photo-1707917.jpeg" target="_blank" rel="nonreferer"></a>
+    origin:
+    <a href="https://images.pexels.com/photos/1707917/pexels-photo-1707917.jpeg" target="_blank" rel="nonreferer">Melanie Dompierre (pexels.com)</a>
 
 # Reflections
 
